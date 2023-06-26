@@ -3,7 +3,7 @@
 ![Beyond the alert()](https://github.com/h41stur/beyond_the_alert/blob/main/src/img/h41stur.jpeg?raw=true)
 
 
-**Beyond the alert()** se trata de um projeto pessoal para contribuir com o *mindset hacking* que compartilho como meus 10 centavos com a comunidade.
+**Beyond the alert()** se trata de um projeto pessoal para contribuir com o *mindset hacking* compartilhando meus 10 centavos com a comunidade.
 
 ---
 
